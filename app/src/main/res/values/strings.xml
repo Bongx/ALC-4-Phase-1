@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="label_bongiwe_moale">Bongiwe Moale</string>
+    <string name="android">Android</string>
+    <string name="bongiwemoale_gmail_com">bongiwemoale@gmail.com</string>
+    <string name="label_phone">+27637799696</string>
+    <string name="label_slack_id_bongiwe">Slack id: @Bongiwe</string>
+</resources>
