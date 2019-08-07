@@ -8,4 +8,7 @@
     <string name="bongiwemoale_gmail_com">bongiwemoale@gmail.com</string>
     <string name="label_phone">+27637799696</string>
     <string name="label_slack_id_bongiwe">Slack id: @Bongiwe</string>
+    <string name="track_android">Track: Android</string>
+    <string name="email">Email: bongiwemoale@gmail.com</string>
+    <string name="slack_id">Slack Id: Bongiwe</string>
 </resources>

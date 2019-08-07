@@ -34,6 +34,7 @@ public class AboutALC extends AppCompatActivity {
         webView = findViewById(R.id.webview);
         WebSettings webSettings=webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+
         webView.loadUrl("https://andela.com/alc/");
         webView.setWebViewClient(new WebViewClient() {
             @Override
@@ -61,5 +62,4 @@ public class AboutALC extends AppCompatActivity {
 
             }
         });
-
     }}

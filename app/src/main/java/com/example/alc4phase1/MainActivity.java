@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void launchAboutActivity(View view) {
-        Log.d(LOG_TAG,"Button Profile Clicked");
+        Log.d(LOG_TAG,"Button About Clicked");
         Intent intent= new Intent(this,AboutALC.class);
         startActivity(intent);
     }
